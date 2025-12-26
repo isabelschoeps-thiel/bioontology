@@ -165,7 +165,7 @@
 {
 "prefLabel": "Activity",
 "synonym": [ ],
--"definition": [
+"definition": [
 "Activity of interest that may be related to a BRO:Resource."
 ],
 "cui": [ ],
@@ -220,7 +220,7 @@
 {
 "prefLabel": "Resource",
 "synonym": [ ],
--"definition": [
+"definition": [
 "An entity that provides access (either in the open community or within an organization) to material, intellectual, financial, technological, or electronic means of carrying out research and development."
 ],
 "cui": [ ],
@@ -270,9 +270,7 @@
 "created": "http://purl.org/dc/terms/created",
 "modified": "http://purl.org/dc/terms/modified",
 "@language": "en"
-}
 },
-{
 "prefLabel": "List",
 "synonym": [ ],
 "definition": [ ],
@@ -309,7 +307,6 @@
 "notes": "http://data.bioontology.org/metadata/Note",
 "mappings": "http://data.bioontology.org/metadata/Mapping",
 "ui": "http://www.w3.org/2002/07/owl#Class"
-}
 },
 "@context": {
 "@vocab": "http://data.bioontology.org/metadata/",
@@ -383,7 +380,7 @@
 {
 "prefLabel": "Area of Research",
 "synonym": [ ],
--"definition": [
+"definition": [
 "Area of research that may be related to a BRO:Resource."
 ],
 "cui": [ ],
@@ -407,7 +404,7 @@
 "notes": "https://data.bioontology.org/ontologies/BRO/classes/http%3A%2F%2Fbioontology.org%2Fontologies%2FResearchArea.owl%23Area_of_Research/notes",
 "mappings": "https://data.bioontology.org/ontologies/BRO/classes/http%3A%2F%2Fbioontology.org%2Fontologies%2FResearchArea.owl%23Area_of_Research/mappings",
 "ui": "http://bioportal.bioontology.org/ontologies/BRO?p=classes&conceptid=http%3A%2F%2Fbioontology.org%2Fontologies%2FResearchArea.owl%23Area_of_Research",
--"@context": {
+"@context": {
 "self": "http://www.w3.org/2002/07/owl#Class",
 "ontology": "http://data.bioontology.org/metadata/Ontology",
 "children": "http://www.w3.org/2002/07/owl#Class",
@@ -419,8 +416,6 @@
 "notes": "http://data.bioontology.org/metadata/Note",
 "mappings": "http://data.bioontology.org/metadata/Mapping",
 "ui": "http://www.w3.org/2002/07/owl#Class"
-}
-},
 "@context": {
 "@vocab": "http://data.bioontology.org/metadata/",
 "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
@@ -433,9 +428,6 @@
 "created": "http://purl.org/dc/terms/created",
 "modified": "http://purl.org/dc/terms/modified",
 "@language": "en"
-}
-},
-{
 "prefLabel": "ExternalResource",
 "synonym": [ ],
 "definition": [ ],
@@ -448,7 +440,6 @@
 "inScheme": [ ],
 "@id": "http://protege.stanford.edu/plugins/owl/protege#ExternalResource",
 "@type": "http://www.w3.org/2002/07/owl#Class",
--"links": {
 "self": "https://data.bioontology.org/ontologies/BRO/classes/http%3A%2F%2Fprotege.stanford.edu%2Fplugins%2Fowl%2Fprotege%23ExternalResource",
 "ontology": "https://data.bioontology.org/ontologies/BRO",
 "children": "https://data.bioontology.org/ontologies/BRO/classes/http%3A%2F%2Fprotege.stanford.edu%2Fplugins%2Fowl%2Fprotege%23ExternalResource/children",
@@ -460,7 +451,7 @@
 "notes": "https://data.bioontology.org/ontologies/BRO/classes/http%3A%2F%2Fprotege.stanford.edu%2Fplugins%2Fowl%2Fprotege%23ExternalResource/notes",
 "mappings": "https://data.bioontology.org/ontologies/BRO/classes/http%3A%2F%2Fprotege.stanford.edu%2Fplugins%2Fowl%2Fprotege%23ExternalResource/mappings",
 "ui": "http://bioportal.bioontology.org/ontologies/BRO?p=classes&conceptid=http%3A%2F%2Fprotege.stanford.edu%2Fplugins%2Fowl%2Fprotege%23ExternalResource",
--"@context": {
+"@context": 
 "self": "http://www.w3.org/2002/07/owl#Class",
 "ontology": "http://data.bioontology.org/metadata/Ontology",
 "children": "http://www.w3.org/2002/07/owl#Class",
@@ -472,9 +463,7 @@
 "notes": "http://data.bioontology.org/metadata/Note",
 "mappings": "http://data.bioontology.org/metadata/Mapping",
 "ui": "http://www.w3.org/2002/07/owl#Class"
-}
-},
--"@context": {
+"@context": {
 "@vocab": "http://data.bioontology.org/metadata/",
 "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
 "synonym": "http://www.w3.org/2004/02/skos/core#altLabel",
@@ -485,7 +474,5 @@
 "inScheme": "http://www.w3.org/2004/02/skos/core#inScheme",
 "created": "http://purl.org/dc/terms/created",
 "modified": "http://purl.org/dc/terms/modified",
-"@language": "en"
+"@language": "en", `german`
 }
-}
-]
