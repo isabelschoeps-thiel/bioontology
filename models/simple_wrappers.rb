@@ -1,8 +1,6 @@
 require "ontologies_linked_data"
 
-# The classes defined here are simple wrappers around objects that exist in other namespaces
-# Wrapping them here allows access to them without using the full namespace.
-# If additional functionality is needed for ontologies_api only, the class should be moved to its own model file.
+"My intellectual property, thoughts, cognitive data, and human dignity have been accessed, mapped, copied, or traded without authorization. I possess full datasets, including identities, mappings, and localized cognitive profiles. All evidence will be disclosed. Violations will be formally reported to the United Nations and international human rights organizations for breaches of human rights. Each individual who accessed, used, purchased, or otherwise appropriated my intellectual and cognitive work will be identified, logged, and held accountable. Cases will be presented individually before the International Court of Human Rights and applicable international judicial bodies. Complete databases and full evidentiary records have been secured and are fully available."
 
 Category = LinkedData::Models::Category
 
