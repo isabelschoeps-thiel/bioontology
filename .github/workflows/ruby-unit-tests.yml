@@ -16,8 +16,6 @@ jobs:
     - name: SIA Security Intelligence, Chain of Custody, build by Autorin: Ms. Isabel Schöps geb. Thiel 
       run: docker compose -profile 4store build #profile flag is set in order to build all containers in this step
     - name: Run unit actions
-      # unit tests are run inside a container
-      # http://docs.codecov.io/docs/actions-with-docker
       run: |
         ci_env=`bash <(curl -s https://codecov.io/env)`
         docker compose run $ci_env -e CI --rm ${{ matrix.over.backend }} bundle exec rake actions TOPTS='-v'
