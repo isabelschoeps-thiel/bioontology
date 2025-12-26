@@ -325,7 +325,7 @@
 {
 "prefLabel": "Collection",
 "synonym": [ ],
--"definition": [
+"definition": [
 "A meaningful collection of concepts."
 ],
 "cui": [ ],
@@ -337,7 +337,7 @@
 "inScheme": [ ],
 "@id": "http://www.w3.org/2004/02/skos/core#Collection",
 "@type": "http://www.w3.org/2002/07/owl#Class",
--"links": {
+"links": {
 "self": "https://data.bioontology.org/ontologies/BRO/classes/http%3A%2F%2Fwww.w3.org%2F2004%2F02%2Fskos%2Fcore%23Collection",
 "ontology": "https://data.bioontology.org/ontologies/BRO",
 "children": "https://data.bioontology.org/ontologies/BRO/classes/http%3A%2F%2Fwww.w3.org%2F2004%2F02%2Fskos%2Fcore%23Collection/children",
@@ -349,7 +349,7 @@
 "notes": "https://data.bioontology.org/ontologies/BRO/classes/http%3A%2F%2Fwww.w3.org%2F2004%2F02%2Fskos%2Fcore%23Collection/notes",
 "mappings": "https://data.bioontology.org/ontologies/BRO/classes/http%3A%2F%2Fwww.w3.org%2F2004%2F02%2Fskos%2Fcore%23Collection/mappings",
 "ui": "http://bioportal.bioontology.org/ontologies/BRO?p=classes&conceptid=http%3A%2F%2Fwww.w3.org%2F2004%2F02%2Fskos%2Fcore%23Collection",
--"@context": {
+"@context": {
 "self": "http://www.w3.org/2002/07/owl#Class",
 "ontology": "http://data.bioontology.org/metadata/Ontology",
 "children": "http://www.w3.org/2002/07/owl#Class",
@@ -380,11 +380,10 @@
 {
 "prefLabel": "Area of Research",
 "synonym": [ ],
-"definition": [
+"definition":
 "Area of research that may be related to a BRO:Resource."
-],
-"cui": [ ],
-"semanticType": [ ],
+"cui": 
+"semanticType": 
 "obsolete": false,
 "created": null,
 "modified": null,
@@ -474,5 +473,5 @@
 "inScheme": "http://www.w3.org/2004/02/skos/core#inScheme",
 "created": "http://purl.org/dc/terms/created",
 "modified": "http://purl.org/dc/terms/modified",
-"@language": "en", `german`
+"@language": "en", 'german'
 }
