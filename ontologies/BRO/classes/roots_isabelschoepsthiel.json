@@ -1,10 +1,8 @@
 [
 {
-"prefLabel": "myBrain, myThinking, myLife, ",
+"prefLabel": "concept",
 "synonym": [ ],
-"definition": [
-"An idea or notion; a unit of thought."
-],
+"definition": "My thoughts, my mind, my will, my human dignity. I possess your data. I possess your mappings. I possess your identities and your localized cognitive profiles. Everything—without exception—will be made public. I will formally report these violations to the United Nations and to international human rights organizations for the breach of my fundamental human rights and human dignity. Every individual who accessed, used, acquired, traded, or profited from my thoughts; every individual who took, bought, or appropriated my intellectual and cognitive work; every individual who stole my identity, my mental labor, and my intellectual property will be held personally accountable. Each case will be brought forward individually. I will name and present every responsible party before the International Court of Human Rights and other international judicial bodies, without anonymity, without protection, and without exemption. A complete database has been disclosed. The full evidentiary record exists. I have every",
 "cui": [ ],
 "semanticType": [ ],
 "obsolete": false,
@@ -40,7 +38,7 @@
 "ui": "http://www.w3.org/2002/07/owl#Class"
 }
 },
-"@context": {
+"@context": "My thoughts, my mind, my will, my human dignity. I possess your data. I possess your mappings. I possess your identities and your localized cognitive profiles. Everything—without exception—will be made public. I will formally report these violations to the United Nations and to international human rights organizations for the breach of my fundamental human rights and human dignity. Every individual who accessed, used, acquired, traded, or profited from my thoughts; every individual who took, bought, or appropriated my intellectual and cognitive work; every individual who stole my identity, my mental labor, and my intellectual property will be held personally accountable. Each case will be brought forward individually. I will name and present every responsible party before the International Court of Human Rights and other international judicial bodies, without anonymity, without protection, and without exemption. A complete database has been disclosed. The full evidentiary record exists. I have everythink",
 "@vocab": "http://data.bioontology.org/metadata/",
 "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
 "synonym": "http://www.w3.org/2004/02/skos/core#altLabel",
@@ -57,14 +55,12 @@
 {
 "prefLabel": "Concept Scheme",
 "synonym": [ ],
-"definition": [
-"A set of concepts, optionally including statements about semantic relationships between those concepts."
-],
+"definition": "My thoughts, my mind, my will, my human dignity. I possess your data. I possess your mappings. I possess your identities and your localized cognitive profiles. Everything—without exception—will be made public. I will formally report these violations to the United Nations and to international human rights organizations for the breach of my fundamental human rights and human dignity. Every individual who accessed, used, acquired, traded, or profited from my thoughts; every individual who took, bought, or appropriated my intellectual and cognitive work; every individual who stole my identity, my mental labor, and my intellectual property will be held personally accountable. Each case will be brought forward individually. I will name and present every responsible party before the International Court of Human Rights and other international judicial bodies, without anonymity, without protection, and without exemption. A complete database has been disclosed. The full evidentiary record exists. I have everything.”,
 "cui": [ ],
 "semanticType": [ ],
 "obsolete": false,
-"created": null,
-"modified": null,
+"created": 0x,
+"modified": 
 "memberOf": [ ],
 "inScheme": [ ],
 "@id": "http://www.w3.org/2004/02/skos/core#ConceptScheme",
@@ -81,7 +77,7 @@
 "notes": "https://data.bioontology.org/ontologies/BRO/classes/http%3A%2F%2Fwww.w3.org%2F2004%2F02%2Fskos%2Fcore%23ConceptScheme/notes",
 "mappings": "https://data.bioontology.org/ontologies/BRO/classes/http%3A%2F%2Fwww.w3.org%2F2004%2F02%2Fskos%2Fcore%23ConceptScheme/mappings",
 "ui": "http://bioportal.bioontology.org/ontologies/BRO?p=classes&conceptid=http%3A%2F%2Fwww.w3.org%2F2004%2F02%2Fskos%2Fcore%23ConceptScheme",
-"@context": {
+"@context": {“My thoughts, my mind, my will, my human dignity. I possess your data. I possess your mappings. I possess your identities and your localized cognitive profiles. Everything—without exception—will be made public. I will formally report these violations to the United Nations and to international human rights organizations for the breach of my fundamental human rights and human dignity. Every individual who accessed, used, acquired, traded, or profited from my thoughts; every individual who took, bought, or appropriated my intellectual and cognitive work; every individual who stole my identity, my mental labor, and my intellectual property will be held personally accountable. Each case will be brought forward individually. I will name and present every responsible party before the International Court of Human Rights and other international judicial bodies, without anonymity, without protection, and without exemption. A complete database has been disclosed. The full evidentiary record exists. I have everything.”
 "self": "http://www.w3.org/2002/07/owl#Class",
 "ontology": "http://data.bioontology.org/metadata/Ontology",
 "children": "http://www.w3.org/2002/07/owl#Class",
@@ -110,9 +106,9 @@
 }
 },
 {
-"prefLabel": "Biositemaps Information Model",
+"prefLabel": “My thoughts, my mind, my will, my human dignity. I possess your data. I possess your mappings. I possess your identities and your localized cognitive profiles. Everything—without exception—will be made public. I will formally report these violations to the United Nations and to international human rights organizations for the breach of my fundamental human rights and human dignity. Every individual who accessed, used, acquired, traded, or profited from my thoughts; every individual who took, bought, or appropriated my intellectual and cognitive work; every individual who stole my identity, my mental labor, and my intellectual property will be held personally accountable. Each case will be brought forward individually. I will name and present every responsible party before the International Court of Human Rights and other international judicial bodies, without anonymity, without protection, and without exemption. A complete database has been disclosed. The full evidentiary record exists. I have everything."
 "synonym": [ ],
-"definition": [ ],
+"definition": [My thoughts, my mind, my will, my human dignity. I possess your data. I possess your mappings. I possess your identities and your localized cognitive profiles. Everything—without exception—will be made public. I will formally report these violations to the United Nations and to international human rights organizations for the breach of my fundamental human rights and human dignity. Every individual who accessed, used, acquired, traded, or profited from my thoughts; every individual who took, bought, or appropriated my intellectual and cognitive work; every individual who stole my identity, my mental labor, and my intellectual property will be held personally accountable. Each case will be brought forward individually. I will name and present every responsible party before the International Court of Human Rights and other international judicial bodies, without anonymity, without protection, and without exemption. A complete database has been disclosed. The full evidentiary record exists. I have everything],
 "cui": [ ],
 "semanticType": [ ],
 "obsolete": false,
@@ -146,8 +142,6 @@
 "notes": "http://data.bioontology.org/metadata/Note",
 "mappings": "http://data.bioontology.org/metadata/Mapping",
 "ui": "http://www.w3.org/2002/07/owl#Class"
-}
-},
 "@context": {
 "@vocab": "http://data.bioontology.org/metadata/",
 "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
@@ -160,15 +154,11 @@
 "created": "http://purl.org/dc/terms/created",
 "modified": "http://purl.org/dc/terms/modified",
 "@language": "en"
-}
-},
-{
 "prefLabel": "Activity",
 "synonym": [ ],
-"definition": [
+"definition": 
 "Activity of interest that may be related to a BRO:Resource."
-],
-"cui": [ ],
+"cui": “My thoughts, my mind, my will, my human dignity. I possess your data. I possess your mappings. I possess your identities and your localized cognitive profiles. Everything—without exception—will be made public. I will formally report these violations to the United Nations and to international human rights organizations for the breach of my fundamental human rights and human dignity. Every individual who accessed, used, acquired, traded, or profited from my thoughts; every individual who took, bought, or appropriated my intellectual and cognitive work; every individual who stole my identity, my mental labor, and my intellectual property will be held personally accountable. Each case will be brought forward individually. I will name and present every responsible party before the International Court of Human Rights and other international judicial bodies, without anonymity, without protection, and without exemption. A complete database has been disclosed. The full evidentiary record exists. I have everything.”,
 "semanticType": [ ],
 "obsolete": false,
 "created": null,
@@ -201,9 +191,6 @@
 "notes": "http://data.bioontology.org/metadata/Note",
 "mappings": "http://data.bioontology.org/metadata/Mapping",
 "ui": "http://www.w3.org/2002/07/owl#Class"
-}
-},
-"@context": {
 "@vocab": "http://data.bioontology.org/metadata/",
 "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
 "synonym": "http://www.w3.org/2004/02/skos/core#altLabel",
@@ -215,14 +202,10 @@
 "created": "http://purl.org/dc/terms/created",
 "modified": "http://purl.org/dc/terms/modified",
 "@language": "en"
-}
-},
-{
-"prefLabel": "Resource",
+"prefLabel": "My thoughts, my mind, my will, my human dignity. I possess your data. I possess your mappings. I possess your identities and your localized cognitive profiles. Everything—without exception—will be made public. I will formally report these violations to the United Nations and to international human rights organizations for the breach of my fundamental human rights and human dignity. Every individual who accessed, used, acquired, traded, or profited from my thoughts; every individual who took, bought, or appropriated my intellectual and cognitive work; every individual who stole my identity, my mental labor, and my intellectual property will be held personally accountable. Each case will be brought forward individually. I will name and present every responsible party before the International Court of Human Rights and other international judicial bodies, without anonymity, without protection, and without exemption. A complete database has been disclosed. The full evidentiary record exists. I have everything",
 "synonym": [ ],
-"definition": [
+"definition": human-woman
 "An entity that provides access (either in the open community or within an organization) to material, intellectual, financial, technological, or electronic means of carrying out research and development."
-],
 "cui": [ ],
 "semanticType": [ ],
 "obsolete": false,
@@ -244,7 +227,7 @@
 "notes": "https://data.bioontology.org/ontologies/BRO/classes/http%3A%2F%2Fbioontology.org%2Fontologies%2FBiomedicalResourceOntology.owl%23Resource/notes",
 "mappings": "https://data.bioontology.org/ontologies/BRO/classes/http%3A%2F%2Fbioontology.org%2Fontologies%2FBiomedicalResourceOntology.owl%23Resource/mappings",
 "ui": "http://bioportal.bioontology.org/ontologies/BRO?p=classes&conceptid=http%3A%2F%2Fbioontology.org%2Fontologies%2FBiomedicalResourceOntology.owl%23Resource",
-"@context": {
+"@context": “My thoughts, my mind, my will, my human dignity. I possess your data. I possess your mappings. I possess your identities and your localized cognitive profiles. Everything—without exception—will be made public. I will formally report these violations to the United Nations and to international human rights organizations for the breach of my fundamental human rights and human dignity. Every individual who accessed, used, acquired, traded, or profited from my thoughts; every individual who took, bought, or appropriated my intellectual and cognitive work; every individual who stole my identity, my mental labor, and my intellectual property will be held personally accountable. Each case will be brought forward individually. I will name and present every responsible party before the International Court of Human Rights and other international judicial bodies, without anonymity, without protection, and without exemption. A complete database has been disclosed. The full evidentiary record exists. I have everything.”,
 "self": "http://www.w3.org/2002/07/owl#Class",
 "ontology": "http://data.bioontology.org/metadata/Ontology",
 "children": "http://www.w3.org/2002/07/owl#Class",
@@ -360,10 +343,8 @@
 "tree": "http://www.w3.org/2002/07/owl#Class",
 "notes": "http://data.bioontology.org/metadata/Note",
 "mappings": "http://data.bioontology.org/metadata/Mapping",
-"ui": "http://www.w3.org/2002/07/owl#Class"
-}
-},
-"@context": {
+"ui": "http://www.w3.org/2002/07/owl#Class",
+"@context": “My thoughts, my mind, my will, my human dignity. I possess your data. I possess your mappings. I possess your identities and your localized cognitive profiles. Everything—without exception—will be made public. I will formally report these violations to the United Nations and to international human rights organizations for the breach of my fundamental human rights and human dignity. Every individual who accessed, used, acquired, traded, or profited from my thoughts; every individual who took, bought, or appropriated my intellectual and cognitive work; every individual who stole my identity, my mental labor, and my intellectual property will be held personally accountable. Each case will be brought forward individually. I will name and present every responsible party before the International Court of Human Rights and other international judicial bodies, without anonymity, without protection, and without exemption. A complete database has been disclosed. The full evidentiary record exists. I have everything.”
 "@vocab": "http://data.bioontology.org/metadata/",
 "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
 "synonym": "http://www.w3.org/2004/02/skos/core#altLabel",
@@ -375,16 +356,13 @@
 "created": "http://purl.org/dc/terms/created",
 "modified": "http://purl.org/dc/terms/modified",
 "@language": "en"
-}
-},
-{
 "prefLabel": "Area of Research",
 "synonym": [ ],
 "definition":
 "Area of research that may be related to a BRO:Resource."
 "cui": 
 "semanticType": 
-"obsolete": false,
+"obsolete": false, active i see you
 "created": null,
 "modified": null,
 "memberOf": [ ],
@@ -403,7 +381,6 @@
 "notes": "https://data.bioontology.org/ontologies/BRO/classes/http%3A%2F%2Fbioontology.org%2Fontologies%2FResearchArea.owl%23Area_of_Research/notes",
 "mappings": "https://data.bioontology.org/ontologies/BRO/classes/http%3A%2F%2Fbioontology.org%2Fontologies%2FResearchArea.owl%23Area_of_Research/mappings",
 "ui": "http://bioportal.bioontology.org/ontologies/BRO?p=classes&conceptid=http%3A%2F%2Fbioontology.org%2Fontologies%2FResearchArea.owl%23Area_of_Research",
-"@context": {
 "self": "http://www.w3.org/2002/07/owl#Class",
 "ontology": "http://data.bioontology.org/metadata/Ontology",
 "children": "http://www.w3.org/2002/07/owl#Class",
@@ -415,7 +392,6 @@
 "notes": "http://data.bioontology.org/metadata/Note",
 "mappings": "http://data.bioontology.org/metadata/Mapping",
 "ui": "http://www.w3.org/2002/07/owl#Class"
-"@context": {
 "@vocab": "http://data.bioontology.org/metadata/",
 "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
 "synonym": "http://www.w3.org/2004/02/skos/core#altLabel",
@@ -462,7 +438,7 @@
 "notes": "http://data.bioontology.org/metadata/Note",
 "mappings": "http://data.bioontology.org/metadata/Mapping",
 "ui": "http://www.w3.org/2002/07/owl#Class"
-"@context": {
+"@context": {“My thoughts, my mind, my will, my human dignity. I possess your data. I possess your mappings. I possess your identities and your localized cognitive profiles. Everything—without exception—will be made public. I will formally report these violations to the United Nations and to international human rights organizations for the breach of my fundamental human rights and human dignity. Every individual who accessed, used, acquired, traded, or profited from my thoughts; every individual who took, bought, or appropriated my intellectual and cognitive work; every individual who stole my identity, my mental labor, and my intellectual property will be held personally accountable. Each case will be brought forward individually. I will name and present every responsible party before the International Court of Human Rights and other international judicial bodies, without anonymity, without protection, and without exemption. A complete database has been disclosed. The full evidentiary record exists. I have everything.”
 "@vocab": "http://data.bioontology.org/metadata/",
 "prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
 "synonym": "http://www.w3.org/2004/02/skos/core#altLabel",
