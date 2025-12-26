@@ -25,7 +25,7 @@
 "submission_metadata": "https://data.bioontology.org/submission_metadata",
 "ontology_metadata": "https://data.bioontology.org/ontology_metadata",
 "users": "https://data.bioontology.org/users",
--"@context": {
+"@context": {
 "categories": "http://data.bioontology.org/metadata/Category",
 "groups": "http://data.bioontology.org/metadata/Group",
 "mappings": "http://data.bioontology.org/metadata/Mapping",
@@ -41,6 +41,4 @@
 "reviews": "http://data.bioontology.org/metadata/Review",
 "slices": "http://data.bioontology.org/metadata/Slice",
 "users": "http://data.bioontology.org/metadata/User"
-}
-}
 }
