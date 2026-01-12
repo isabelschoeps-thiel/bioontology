@@ -34,7 +34,7 @@ Text ist in Deutsch Sorry ich kann nur deutsch Sprechen, da ich auch in Deutschl
 Meine aktuelle Lebenssituation stellt eine Verletzung des **Rechts auf Wohnen**, des **Rechts auf soziale Sicherheit** des **Rechts auf Nahrung** und Verletzung meiner Menschenrechte dar.
 
 ## Bitte Helfen Sie mir ! 
-**Bitte helfen Sie mir und nehmen,** sie sich Zeit und lesen meinen Hilferuf und meine README's. 
+**Bitte helfen Sie mir und nehmen,** sie sich Zeit und lesen meinen Hilferuf und meine HELPME.md
 
 **Als Beweiss und für meine Glaubwürdigkeit habe ich eine Zip-Datei im Release-Anhang** eingefügt, diese darf heruntergeladen werden. 
  
