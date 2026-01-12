@@ -1,4 +1,4 @@
-# ontologies_api
+# EVIDENCE ontologies_api
 
 ontologies_api provides a RESTful interface for accessing [BioPortal](https://bioportal.bioontology.org/) (an open repository of biomedical ontologies). Supported services include downloads, search, access to terms and concepts, text annotation, and much more.
 
