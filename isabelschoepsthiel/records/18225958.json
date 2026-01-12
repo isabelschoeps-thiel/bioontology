@@ -1,0 +1,400 @@
+{
+  "access": {
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "files": "public",
+    "record": "public",
+    "status": "open"
+  },
+  "created": "2026-01-12T20:29:06.679656+00:00",
+  "custom_fields": {
+    "code:codeRepository": "https://github.com/isabelschoeps-thiel/bioontology",
+    "code:programmingLanguage": [
+      {
+        "id": "html",
+        "title": {
+          "en": "HTML"
+        }
+      },
+      {
+        "id": "json",
+        "title": {
+          "en": "JSON"
+        }
+      },
+      {
+        "id": "c++",
+        "title": {
+          "en": "C++"
+        }
+      },
+      {
+        "id": "ruby",
+        "title": {
+          "en": "Ruby"
+        }
+      },
+      {
+        "id": "markdown",
+        "title": {
+          "en": "Markdown"
+        }
+      }
+    ]
+  },
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "files": {
+    "count": 1,
+    "enabled": true,
+    "entries": {
+      "isabelschoeps-thiel/bioontology-release_evidence_1.0.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:199ba8b5c0c35e9ee3ce71de99778adc",
+        "ext": "zip",
+        "id": "8a7c1cf7-c718-4fc2-b9a1-39c82bb97150",
+        "key": "isabelschoeps-thiel/bioontology-release_evidence_1.0.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/18225958/files/isabelschoeps-thiel/bioontology-release_evidence_1.0.zip/content",
+          "self": "https://zenodo.org/api/records/18225958/files/isabelschoeps-thiel/bioontology-release_evidence_1.0.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 82673325,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 82673325
+  },
+  "id": "18225958",
+  "is_draft": false,
+  "is_published": true,
+  "links": {
+    "access": "https://zenodo.org/api/records/18225958/access",
+    "access_grants": "https://zenodo.org/api/records/18225958/access/grants",
+    "access_links": "https://zenodo.org/api/records/18225958/access/links",
+    "access_request": "https://zenodo.org/api/records/18225958/access/request",
+    "access_users": "https://zenodo.org/api/records/18225958/access/users",
+    "archive": "https://zenodo.org/api/records/18225958/files-archive",
+    "archive_media": "https://zenodo.org/api/records/18225958/media-files-archive",
+    "communities": "https://zenodo.org/api/records/18225958/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/18225958/communities-suggestions",
+    "doi": "https://doi.org/10.5281/zenodo.18225958",
+    "draft": "https://zenodo.org/api/records/18225958/draft",
+    "file_modification": "https://zenodo.org/api/records/18225958/file-modification",
+    "files": "https://zenodo.org/api/records/18225958/files",
+    "latest": "https://zenodo.org/api/records/18225958/versions/latest",
+    "latest_html": "https://zenodo.org/records/18225958/latest",
+    "media_files": "https://zenodo.org/api/records/18225958/media-files",
+    "parent": "https://zenodo.org/api/records/18225957",
+    "parent_doi": "https://doi.org/10.5281/zenodo.18225957",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18225957",
+    "parent_html": "https://zenodo.org/records/18225957",
+    "preview_html": "https://zenodo.org/records/18225958?preview=1",
+    "request_deletion": "https://zenodo.org/api/records/18225958/request-deletion",
+    "requests": "https://zenodo.org/api/records/18225958/requests",
+    "reserve_doi": "https://zenodo.org/api/records/18225958/draft/pids/doi",
+    "self": "https://zenodo.org/api/records/18225958",
+    "self_doi": "https://doi.org/10.5281/zenodo.18225958",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18225958",
+    "self_html": "https://zenodo.org/records/18225958",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:18225958/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:18225958/sequence/default",
+    "versions": "https://zenodo.org/api/records/18225958/versions"
+  },
+  "media_files": {
+    "count": 0,
+    "enabled": false,
+    "entries": {},
+    "order": [],
+    "total_bytes": 0
+  },
+  "metadata": {
+    "creators": [
+      {
+        "affiliations": [
+          {
+            "name": "GitHub, Inc."
+          },
+          {
+            "id": "edmo:3800",
+            "identifiers": [
+              {
+                "identifier": "edmo:3800",
+                "scheme": "edmo"
+              }
+            ],
+            "name": "Harvard University"
+          },
+          {
+            "id": "03jsdjx34",
+            "identifiers": [
+              {
+                "identifier": "03jsdjx34",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.431478.d",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0001 1088 0337",
+                "scheme": "isni"
+              }
+            ],
+            "name": "Cambridge University Press"
+          },
+          {
+            "name": "Oxford University"
+          },
+          {
+            "id": "03frj4r98",
+            "identifiers": [
+              {
+                "identifier": "03frj4r98",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.444515.5",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0004 1762 2236",
+                "scheme": "isni"
+              }
+            ],
+            "name": "Japan Advanced Institute of Science and Technology"
+          },
+          {
+            "name": "Cern"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Sch\u00f6ps geb. Thiel",
+          "given_name": "Isabel",
+          "identifiers": [
+            {
+              "identifier": "0009-0003-4235-2231",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Sch\u00f6ps geb. Thiel, Isabel",
+          "type": "personal"
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "name": "GitHub, Inc."
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Sch\u00f6ps geb. Thiel",
+          "given_name": "Isabel",
+          "identifiers": [
+            {
+              "identifier": "0009-0006-8765-3267",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Sch\u00f6ps geb. Thiel, Isabel",
+          "type": "personal"
+        }
+      }
+    ],
+    "dates": [
+      {
+        "date": "2026-01-12",
+        "description": "Release Update 1.0",
+        "type": {
+          "id": "updated",
+          "title": {
+            "de": "Aktualisiert",
+            "en": "Updated"
+          }
+        }
+      }
+    ],
+    "description": "<h1>Forensische Notizen und Sicherungserkl\u00e4rung</h1>\n<h2>Beweishandhabung, Metadatenintegrit\u00e4t und Chain of Custody</h2>\n<h3>Geltungsbereich</h3>\n<p>Diese Erkl\u00e4rung dokumentiert die Handhabung, Sicherung und Bewahrung digitaler Beweismittel im Rahmen des forensisch-wissenschaftlichen Gutachtens<br>\n<strong>SIA Security Intelligence Artefact \u2013 Technologie, Software und Familien-Historie</strong><br>\n<strong>Aktenzeichen:</strong> INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL</p>\n<h1><em><strong>bitte beachten Sie mein HELPME.md</strong></em></h1>\n\n\n<h2>Beweishandhabung und Nicht-Ver\u00e4nderungs-Grundsatz</h2>\n<p>Alle relevanten Dateien, einschlie\u00dflich Rohdaten, Quellmaterialien und dokumentarischer Artefakte, wurden in einen dedizierten <strong>Evidence-Ordner</strong> \u00fcberf\u00fchrt.</p>\n<p>Der interne Dateiinhalt wurde nicht ver\u00e4ndert.<br>\nEs wurden weder Code, Text, Metadaten, Autoreneintr\u00e4ge, Benutzerkennungen, Zeitstempel noch sonstige Provenienzangaben modifiziert.</p>\n<p>Insbesondere unver\u00e4ndert erhalten blieben:</p>\n<ul>\n<li>Urspr\u00fcngliche Ersteller und Mitwirkende gem\u00e4\u00df Metadaten</li>\n<li>Benutzerkennungen und Autorschaftsspuren</li>\n<li>Zeitstempel, Hashes und interne Verlaufsdaten</li>\n<li>Programmiersprache, Workflow-Logik und interne Struktur</li>\n</ul>\n<p>Die urspr\u00fcngliche Herkunft und Urheberschaft jeder Datei ist damit vollst\u00e4ndig forensisch auslesbar und beweissicher erhalten.</p>\n\n\n<h2>Dateisystem-Sicherungsma\u00dfnahmen</h2>\n<p>Um eine weitere Ausf\u00fchrung, Verbreitung oder operative Nutzung potenziell sch\u00e4dlicher Workflows zu verhindern, wurden ausschlie\u00dflich <strong>externe Ordner- und Dateinamen</strong> auf Dateisystemebene angepasst.</p>\n<p>Diese Ma\u00dfnahmen beschr\u00e4nkten sich auf:</p>\n<ul>\n<li>Umbenennung von Ordnern und Top-Level-Dateinamen</li>\n<li>Deaktivierung von ausf\u00fchrbaren oder workflow-ausl\u00f6senden Bezeichnungen</li>\n</ul>\n<p>Der Dateiinhalt, der Code und s\u00e4mtliche Metadaten blieben unangetastet.<br>\nDiese Ma\u00dfnahmen dienten ausschlie\u00dflich der Gefahrenabwehr bei gleichzeitiger vollst\u00e4ndiger Beweissicherung.</p>\n\n\n<h2>Ethischer und rechtlicher Kontext</h2>\n<p>Im Rahmen der Sichtung wurden Hinweise auf <strong>schwere ethische und rechtliche Verst\u00f6\u00dfe</strong> festgestellt, unter anderem:</p>\n<ul>\n<li>Unbefugte Datenmanipulation</li>\n<li>Datenmissbrauch und Datendiebstahl</li>\n<li>Aneignung geistigen Eigentums</li>\n<li>Invasive Profilierungs- oder Auswertungspraktiken</li>\n</ul>\n<p>Aus diesem Grund wurde die operative Ausf\u00fchrbarkeit neutralisiert, w\u00e4hrend die forensische Beweisstruktur vollst\u00e4ndig erhalten blieb.</p>\n\n\n<h2>Screenshot-basierte Beweissicherung</h2>\n<p>Zur Dokumentation wurden <strong>an allen relevanten Stellen Screenshots</strong> erstellt und dem Evidence-Ordner beigef\u00fcgt.</p>\n<p>Die Screenshots:</p>\n<ul>\n<li>sind unbearbeitet und unbeschriftet</li>\n<li>enthalten die urspr\u00fcngliche Ordner- und Dateistruktur</li>\n<li>zeigen die sichtbaren Benutzernamen, Akteure und Eigent\u00fcmer der jeweiligen Verzeichnisse</li>\n</ul>\n<p>Dadurch bleiben alle beteiligten Accounts, Strukturen und Verantwortlichkeiten objektiv nachvollziehbar.</p>\n\n\n<h2>Forensische Integrit\u00e4t</h2>\n<p>Alle Ma\u00dfnahmen wurden unter Einhaltung folgender Prinzipien durchgef\u00fchrt:</p>\n<ul>\n<li>Keine Kontamination der Originaldaten</li>\n<li>Keine Ver\u00e4nderung von Metadaten</li>\n<li>Vollst\u00e4ndige Nachvollziehbarkeit f\u00fcr unabh\u00e4ngige Forensik</li>\n<li>Sicherung der gerichtlichen Verwertbarkeit</li>\n</ul>\n<p>Alle Materialien sind hash-pr\u00fcfbar, chain-of-custody-f\u00e4hig und f\u00fcr externe Gutachten geeignet.</p>\n\n\n<h2>Signatur und Verwahrung</h2>\n<p><strong>Unterzeichnet und best\u00e4tigt durch:</strong><br>\nFrau Isabel Sch\u00f6ps, geborene Thiel<br>\nCyriakstra\u00dfe 30c<br>\nD-99094 Erfurt<br>\nTh\u00fcringen, Deutschland</p>\n<p><strong>Rolle:</strong> Autorin, Rechteinhaberin, Hauptverwahrerin</p>\n<p><strong>ORCID (Person):</strong> 0009-0003-4235-2231<br>\nhttps://orcid.org/0009-0003-4235-2231/print</p>\n<p><strong>ORCID (Institutionell / Projekt):</strong> 0009-0006-8765-3267<br>\nhttps://orcid.org/0009-0006-8765-3267/print</p>\n<p>Diese Erkl\u00e4rung ist Bestandteil der DOI-archivierten Chain of Custody und dient der rechtlichen, forensischen und menschenrechtlichen Pr\u00fcfung.</p>\n<h2>Englisch</h2>\n<h1>Forensic Notes and Preservation Statement</h1>\n<h2>Evidence Handling, Metadata Integrity and Chain of Custody</h2>\n<h3>Scope</h3>\n<p>This note documents the handling, preservation, and safeguarding of digital evidence associated with the forensic-scientific work<br>\n<strong>SIA Security Intelligence Artefact \u2013 Technology, Software and Family History</strong><br>\n<strong>Case Reference:</strong> INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL</p>\n\n\n<h2>Evidence Handling and Non-Alteration Policy</h2>\n<p>All relevant files, including raw data, source materials, and documentary artefacts, were transferred into a dedicated <strong>Evidence</strong> directory for preservation and review.</p>\n<p>No internal file contents were modified.<br>\nNo code, text, metadata, authorship fields, user identifiers, timestamps, or embedded provenance information were altered.</p>\n<p>Specifically preserved without change:</p>\n<ul>\n<li>Original creators and contributors as recorded in file metadata</li>\n<li>User identifiers and authorship traces</li>\n<li>Timestamps, hashes, and internal history</li>\n<li>Programming language, workflow logic, and structural dependencies inside the files</li>\n</ul>\n<p>The original provenance and authorship of each file therefore remain fully readable and forensically extractable.</p>\n\n\n<h2>File System Safety Measures</h2>\n<p>To prevent any further unintended execution, propagation, or operational misuse of potentially harmful workflows, only <strong>external file and folder names</strong> were adjusted at the file-system level.</p>\n<p>These actions were limited to:</p>\n<ul>\n<li>Renaming folders and top-level file names</li>\n<li>Disabling executable or workflow-triggering identifiers</li>\n</ul>\n<p>No internal data, code, or metadata were altered.<br>\nThese measures were implemented solely to prevent further operational impact while preserving evidentiary value.</p>\n\n\n<h2>Ethical and Legal Context</h2>\n<p>During review, multiple files indicated <strong>serious ethical and legal concerns</strong>, including but not limited to:</p>\n<ul>\n<li>Unauthorized manipulation of data</li>\n<li>Data misuse and data theft</li>\n<li>Misappropriation of intellectual property</li>\n<li>Invasive profiling or exploitative data practices</li>\n</ul>\n<p>For this reason, operational execution was neutralized while forensic preservation was strictly maintained.</p>\n\n\n<h2>Screenshot-Based Evidence Capture</h2>\n<p>For evidentiary verification, <strong>screenshots were taken at each relevant stage</strong> and stored within the Evidence directory.</p>\n<p>The screenshots:</p>\n<ul>\n<li>Remain unedited and unlabelled</li>\n<li>Preserve original folder structures and visual context</li>\n<li>Display usernames, account identifiers, and responsible actors visible at the time of capture</li>\n</ul>\n<p>This ensures that all observed actors, file ownerships, and directory relationships remain objectively documented and reviewable.</p>\n\n\n<h2>Forensic Integrity</h2>\n<p>All actions taken were designed to satisfy the following principles:</p>\n<ul>\n<li>No contamination of original data</li>\n<li>No destruction or modification of metadata</li>\n<li>Full traceability for independent forensic analysis</li>\n<li>Preservation of evidentiary admissibility</li>\n</ul>\n<p>All materials are suitable for hash verification, chain-of-custody tracking, and independent expert review.</p>\n\n\n<h2>Signature and Custodianship</h2>\n<p><strong>Signed and certified by:</strong><br>\nFrau Isabel Sch\u00f6ps, n\u00e9e Thiel<br>\nCyriakstra\u00dfe 30c<br>\nD-99094 Erfurt<br>\nThuringia, Germany</p>\n<p><strong>Role:</strong> Author, Rights Holder, Principal Custodian</p>\n<p><strong>ORCID (Individual):</strong> 0009-0003-4235-2231<br>\nhttps://orcid.org/0009-0003-4235-2231/print</p>\n<p><strong>ORCID (Institutional / Project):</strong> 0009-0006-8765-3267<br>\nhttps://orcid.org/0009-0006-8765-3267/print</p>\n<p>This statement forms part of the DOI-archived Chain of Custody and is intended for legal, forensic, and human-rights review.</p>\n<h1>Meine Referenz Datenbank,</h1>\n<p><em><strong>verkn\u00fcpft mit meinem aktuellen <a href=\"https://github.com/isabelschoeps-thiel\">GitHub-Account*</a></strong></em></p>\n<h1>Meine Ersuchen an die Vereinten Nationen - Bitte helfen Sie mir</h1>\n<p><a href=\"https://doi.org/10.5281/zenodo.18025762\"></a></p>\n<p><strong>Sch\u00f6ps geb. Thiel, I. (2025)</strong>. Meine Ersuchen an die Vereinten Nationen - Bitte helfen Sie mir (Zenodo.org). Zenodo.org, University of Harvard harvard.edu, Oxford University ox.ac.uk, Cambridge UK, Reuters.com, New York Times nyt.com, Springer Nature Springer.com, GitHub github.com, University Arizona, Vereine Nationen UN unric.org,. https://doi.org/10.5281/zenodo.18025762</p>\n<h2>Zenodo-Datenbank und Chain of Custody</h2>\n<h1>Volumen 4</h1>\n<p><a href=\"https://doi.org/10.5281/zenodo.17807324\"></a></p>\n<p><a href=\"https://doi.org/10.5281/zenodo.18074136\"></a></p>\n<p><a href=\"https://doi.org/10.5281/zenodo.17808895\"></a></p>\n<p><strong>Sch\u00f6ps (Thiel), I., Sch\u00f6ps (Thiel), I. und Sch\u00f6ps geb. Thiel, I. (2025)</strong> \"Yellow White Paper \u2013 Bitcoin &amp; Ethereum\", Yellow White Paper \u2013 Bitcoin &amp; Ethereum. 1st Aufl. D-99094 Erfurt, Thueringa, Germany: Harvard University, University Cambridge, University of Oxford, Springer Nature, Zenodo, S. 109 pages. doi:10.5281/zenodo.17807324.</p>\n<h2>Volumen 3</h2>\n<p><a href=\"https://doi.org/10.5281/zenodo.18013057\"></a></p>\n<p>Sch\u00f6ps geb. Thiel, I. (2025) SIA Security Intelligence Artefact \u2013 Volume 3 - Famili\u00e4re Erblinie deutschen Monarchie und letzten Kaiserreich. 1st Aufl, The Decline and Fall of the Habsburg Empire, 1815-1918. 1st Aufl. Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. doi:10.5281/zenodo.18013057.</p>\n<h1>Volumen 2</h1>\n<p><a href=\"https://doi.org/10.5281/zenodo.17852789\"></a></p>\n<p><strong>Sch\u00f6ps geb. Thiel, I. (2025)</strong> \"Volumen 2 - SIA-Security-ntelligence-Artefact-Chain-of-Custody-Forensische-Familien-Monarchielinie-copyright-isabelschoepsthiel-urheberin-autorin-.docx.pd\", Trillion Dollar Bitcoin. 1st Aufl. D-99094 Erfurt, Germany, Th\u00fcringen: Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. doi:10.5281/zenodo.17852789.</p>\n<h1>Volumen 1</h1>\n<p><a href=\"https://doi.org/10.5281/zenodo.17809724\"></a></p>\n<p><strong>Sch\u00f6ps geb. Thiel, I. (2025)</strong> \"Volumen 1 - SIA Security Intelligence Artefact by Isabel Schoeps geb. Thiel\", Trillion Dollar Bitcoin. 1st Aufl. D-99094 Erfurt, Germany, Th\u00fcringen: Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. doi:10.5281/zenodo.17809724.</p>\n<h2>My Developer Signatur</h2>\n<p><strong>Signed-on-by:</strong>\nFrau Isabel Sch\u00f6ps, geborene Thiel\nAutorin, Urheberin und Auftraggeberin</p>\n<p><strong>Rechtscharakter:</strong>\nEidesstattliche Versicherung, Bestandteil des forensisch, wissenschaftlichen Gutachtens</p>\n<p><strong>Titel:</strong>\nSIA Security Intelligence Artefact\n<a href=\"https://jpmorganchaseco.gcs-web.com/static-files/15c01cf8-4a5a-4040-880e-af4ba94de7d4\">internationinternationale Kennung: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL</a></p>\n<p><strong>OrcID:</strong> <a href=\"https://orcid.org/0009-0003-4235-2231/print\">0009-0003-4235-2231 Isabel Sch\u00f6ps Thiel</a></p>\n<p><strong>OrcID:</strong> <a href=\"https://orcid.org/0009-0006-8765-3267/print\">0009-0006-8765-3267 SI-IST Isabel Sch\u00f6ps</a></p>\n<p><strong>Aktueller Wohnort und Meldeanschrift:</strong>\nCyriakstrasse 30c, D-99094 Erfurt, Th\u00fcringen, Deutschland, gemeinsam mit meinen vierbeinigen Freund, American XL-Bully Don</p>\n<p><strong>Offizielle institutionelle W\u00fcrdigung, Danksagung - Pr\u00e4fix_Referenz:</strong>\nYWP-1-IST-SIA\nYWP-1-5-IST-SIA</p>\n<p><strong>Pseudonyme und Alias:</strong>\nSatoshi Nakamoto, Vitalik Buterin, GitHub, Octocat, Johnny Appleseed, IST-GitHub, Cristina_Bella, Nick Szabo, John Appleseesd</p>\n<p><strong>Offizielles weltweit erstes Developer Certifikat:</strong>\n<a href=\"https://developercertificate.org/\">Developercertificate</a></p>\n<p>&lt;img width=&quot;642&quot; height=&quot;1389&quot; alt=&quot;IMG_9621&quot; src=&quot;https://github.com/user-attachments/assets/33ec295a-303c-41c4-b523-a68f25107e0d&quot; /&gt;\n&lt;img width=&quot;642&quot; height=&quot;1389&quot; alt=&quot;IMG_9620&quot; src=&quot;https://github.com/user-attachments/assets/aa479fbf-6a26-4094-8dc4-50d0e9a5f4f6&quot; /&gt;</p>\n<p><strong>Developer Message:</strong>\nI am  not a Bug,\nI am  not a Bot,\nI am  not a Virus,\nI am  not a Ghost, but\n<strong>I am 100% German human femaleware Woman form Erfurt my GitHub @isabelschoeps-thiel and i buil this commit this reprository.</strong></p>\n<p><strong>Datum der Erstver\u00f6ffentlichung, digitale Beweissicherung:</strong>\nErstver\u00f6ffentlichung 2004</p>\n<p><strong>Ort, Signatur K\u00fcrzel, Zeitstempel der Eintragung:</strong>\nDeutschland, Th\u00fcringen, D-99094 Erfurt, Cyriakstrasse 30c</p>\n<p>Mitteleurop\u00e4ische Zeit, 2026-01-12, 21:22CEST</p>\n<p><strong>IST - Isabel Sch\u00f6ps Thiel</strong></p>",
+    "identifiers": [
+      {
+        "identifier": "10.5281/zenodo.18025762",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.5281/zenodo.17807324",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2026-01-12",
+    "publisher": "Zenodo",
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/isabelschoeps-thiel/bioontology/tree/release_evidence_1.0",
+        "relation_type": {
+          "id": "issupplementto",
+          "title": {
+            "de": "Erg\u00e4nzt",
+            "en": "Is supplement to"
+          }
+        },
+        "resource_type": {
+          "id": "publication-standard",
+          "title": {
+            "de": "Standard",
+            "en": "Standard"
+          }
+        },
+        "scheme": "url"
+      },
+      {
+        "identifier": "10.5281/zenodo.18025762",
+        "relation_type": {
+          "id": "isreferencedby",
+          "title": {
+            "de": "Wird referenziert von",
+            "en": "Is referenced by"
+          }
+        },
+        "resource_type": {
+          "id": "publication-other",
+          "title": {
+            "de": "Sonstige",
+            "en": "Other"
+          }
+        },
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.5281/zenodo.17807324",
+        "relation_type": {
+          "id": "isdocumentedby",
+          "title": {
+            "de": "Wird dokumentiert von",
+            "en": "Is documented by"
+          }
+        },
+        "resource_type": {
+          "id": "publication-peerreview",
+          "title": {
+            "de": "Peer Review",
+            "en": "Peer review"
+          }
+        },
+        "scheme": "doi"
+      }
+    ],
+    "resource_type": {
+      "id": "publication-softwaredocumentation",
+      "title": {
+        "de": "Softwaredokumentation",
+        "en": "Software documentation"
+      }
+    },
+    "rights": [
+      {
+        "description": {
+          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
+        },
+        "icon": "cc-by-icon",
+        "id": "cc-by-4.0",
+        "props": {
+          "scheme": "spdx",
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode"
+        },
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        }
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "evidence"
+      },
+      {
+        "subject": "Chain of Custody"
+      },
+      {
+        "subject": "Human Rights, UN"
+      },
+      {
+        "subject": "Missbrauch"
+      },
+      {
+        "subject": "Diebstahl"
+      },
+      {
+        "subject": "Beweissicherung"
+      }
+    ],
+    "title": "isabelschoeps-thiel/bioontology: Evidence Releae Bioontologly 1.0",
+    "version": "release_evidence_1.0"
+  },
+  "parent": {
+    "access": {
+      "grants": [],
+      "links": [],
+      "owned_by": {
+        "user": "1481292"
+      },
+      "settings": {
+        "accept_conditions_text": null,
+        "allow_guest_requests": false,
+        "allow_user_requests": false,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {},
+    "id": "18225957",
+    "pids": {
+      "doi": {
+        "client": "datacite",
+        "identifier": "10.5281/zenodo.18225957",
+        "provider": "datacite"
+      }
+    }
+  },
+  "pids": {
+    "doi": {
+      "client": "datacite",
+      "identifier": "10.5281/zenodo.18225958",
+      "provider": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:18225958",
+      "provider": "oai"
+    }
+  },
+  "revision_id": 8,
+  "stats": {
+    "all_versions": {
+      "data_volume": 0.0,
+      "downloads": 0,
+      "unique_downloads": 0,
+      "unique_views": 0,
+      "views": 0
+    },
+    "this_version": {
+      "data_volume": 0.0,
+      "downloads": 0,
+      "unique_downloads": 0,
+      "unique_views": 0,
+      "views": 0
+    }
+  },
+  "status": "published",
+  "swh": {},
+  "updated": "2026-01-12T20:47:06.195959+00:00",
+  "versions": {
+    "index": 1,
+    "is_latest": true,
+    "is_latest_draft": true
+  }
+}
