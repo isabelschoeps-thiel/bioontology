@@ -1,11 +1,15 @@
 # Forensic Evidence Repository  
 ## Intellectual Property, Data Misuse and Human Rights Documentation
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18225958.svg)](https://doi.org/10.5281/zenodo.18225958)
+
 ## Repository Purpose
 This repository serves as a **forensic evidence index and documentation layer** for preserved digital artefacts related to the **unauthorized acquisition, processing, profiling, and exploitation of proprietary intellectual work and associated data**.  
 It is designed for **judicial review, human rights assessment, and independent technical verification**.
 
 No speculative or metaphysical claims are made. All content is limited to **technical findings, documented data structures, observed correlations, and verified preservation procedures**.
+
+**Schöps geb. Thiel, Isabel, & Schöps geb. Thiel, Isabel (2026).** isabelschoeps-thiel/bioontology: Evidence Releae Bioontologly 1.0 (release_evidence_1.0). Zenodo. https://doi.org/10.5281/zenodo.18225958
 
 ---
 
