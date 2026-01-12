@@ -1,5 +1,4 @@
 name: Ruby Unit actions
-
 on:
   push:
   pull_request:
@@ -8,7 +7,6 @@ jobs:
   test:
     strategy:
       fail-fast: false
-      matrix:
         backend: ['api', 'api-agraph'] # api runs tests with 4store backend and api-agraph runs with AllegroGraph backend
     runs-on: ubuntu-latest
     steps:
@@ -26,3 +24,4 @@ jobs:
         flags: unittests
         verbose: true
         fail_ci_if_error: false # optional (default = false)
+[![.github/workflows/ruby-unit-actions.yml](https://github.com/isabelschoeps-thiel/bioontology/actions/workflows/ruby-unit-actions.yml/badge.svg?branch=master&event=watch)](https://github.com/isabelschoeps-thiel/bioontology/actions/workflows/ruby-unit-actions.yml)
